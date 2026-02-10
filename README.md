@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fisabilillah</h1>
+
 <p align="center">
-  🚀 Student Developer • Startup Builder • Crafting Scalable Digital Products
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Student+Developer;Startup+Builder;Fullstack+Web+Developer;Crafting+Scalable+Digital+Products" />
 </p>
 
 ---
