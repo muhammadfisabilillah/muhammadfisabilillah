@@ -46,24 +46,6 @@ My goal is not only to become a skilled developer, but also to grow as a builder
   <img src="https://skillicons.dev/icons?i=git,docker" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-**💎 SejahteraKu – Digital Career Ecosystem**  
-Fullstack monorepo platform built with Next.js, NestJS, Prisma, and Docker  
-
-**🛠 Lab Tools Management System**  
-Inventory and management system built with Laravel  
-
-**🧠 UMKM Automation AI**  
-Automation tools for small business workflows  
-
-**📍 Coord App**  
-Productivity and coordination web application  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
