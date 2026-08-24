@@ -49,16 +49,6 @@ Ultimately, my goal transcends just writing code; I strive to grow as a product 
   <img src="https://skillicons.dev/icons?i=git,docker" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadfisabilillah&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
