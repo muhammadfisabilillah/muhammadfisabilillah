@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fisabilillah</h1>
 
-<h3 align="center">Information Systems Student | Fullstack Developer | Startup Founder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Digital+Products;Architecting+Robust+Backend+Systems;Bridging+Technology+and+Business" />
-</p>
+<h3 align="center">Information Systems Student | Fullstack Developer </h3>
 
 ---
 
@@ -15,15 +11,6 @@ I am an Information Systems student at Telkom University and a passionate softwa
 My core expertise lies in **Backend Architecture** and **System Design**. I prioritize building reliable, efficient, and scalable infrastructure that is prepared for growth. I actively embrace modern development practices, intelligently integrating AI workflows to optimize productivity while maintaining a strict standard for clean, maintainable, and well-structured code.
 
 Ultimately, my goal transcends just writing code; I strive to grow as a product builder who bridges the gap between technical execution and business value.
-
----
-
-## 🎯 Current Focus
-
-- 🚀 **Startup Development:** Leading the architecture and strategy for a new digital venture from the ground up.
-- 🧠 **System Design:** Deepening expertise in backend architecture, microservices, and database optimization.
-- 🏗️ **Scalable Engineering:** Crafting fullstack applications designed for high performance and real-world scalability.
-- 🤖 **AI-Assisted Development:** Leveraging artificial intelligence to accelerate the product development lifecycle efficiently.
 
 ---
 
