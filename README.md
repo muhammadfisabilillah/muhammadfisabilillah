@@ -4,16 +4,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am an Information Systems student at Telkom University and a passionate software developer dedicated to building impactful, real-world digital solutions. Currently, I am bootstrapping my own startup, focusing on end-to-end product development—from conceptualization to delivering a scalable market-ready solution.
-
-My core expertise lies in **Backend Architecture** and **System Design**. I prioritize building reliable, efficient, and scalable infrastructure that is prepared for growth. I actively embrace modern development practices, intelligently integrating AI workflows to optimize productivity while maintaining a strict standard for clean, maintainable, and well-structured code.
-
-Ultimately, my goal transcends just writing code; I strive to grow as a product builder who bridges the gap between technical execution and business value.
-
----
-
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
